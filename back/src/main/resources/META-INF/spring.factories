@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=com.example.springbootdemo1.CallBack.MyApplicationContextInitializer
+org.springframework.boot.SpringApplicationRunListener=com.example.springbootdemo1.CallBack.MySpringApplicationRunListener
